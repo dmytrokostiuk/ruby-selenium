@@ -1,0 +1,12 @@
+source 'https://rubygems.org/'
+
+gem 'rspec',                 '~> 3.8.0'
+gem 'cucumber',              '~> 3.1.2'
+gem 'rspec-expectations',    '~> 3.8.1'
+gem 'require_all',           '~> 2.0.0'
+gem 'pry',                   '~> 0.11.3'
+gem 'selenium-webdriver',    '~> 3.14.0'
+gem 'parallel_tests',        '~> 2.23.0'
+gem 'site_prism',            '~> 2.17.1'
+gem 'rake'
+gem 'sauce_whisk'
